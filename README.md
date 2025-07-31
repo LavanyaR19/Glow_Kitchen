@@ -1,4 +1,3 @@
-<img width="1670" height="835" alt="image" src="" /># 🌿 Glow Kitchen
 
 **Glow Kitchen** is a clean and modern healthy food restaurant website built with **HTML**, **CSS**, and **JavaScript**. The website showcases a healthy food menu, customer testimonials, and a responsive design to promote mindful eating and wellness.
 
